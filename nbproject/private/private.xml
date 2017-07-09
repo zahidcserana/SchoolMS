@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/examination/views/selectResult.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/teachers/views/editTeacher.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/sclass/views/addClassSection.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/views/temp/header_main.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/views/allUserInafoDetails.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/dailyAttendance/controllers/dailyAttendance.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/controllers/users.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/subjects/controllers/subjects.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/students/controllers/students.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/examination/views/aproveShitView.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/models/common.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/configuration/views/generalSettings.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/config/database.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/views/temp/header.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/config/hooks.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/examination/controllers/examination.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/account/controllers/account.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/configuration/controllers/configuration.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/configuration/views/individualRoles.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/sclass/controllers/sclass.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/account/models/accountmodel.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/language/english/ion_auth_lang.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/examination/views/makingResult.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/views/add_new_teacher.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/students/views/editStudentInfo.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/sclass/views/allClass.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/home/controllers/home.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/views/add_new_student.php</file>
+            <file>file:/G:/xampp/htdocs/sms/cron/index.php</file>
+            <file>file:/G:/xampp/htdocs/sms/application/modules/examination/models/exammodel.php</file>
+        </group>
+    </open-files>
+</project-private>
